@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Vamsi
 
-<!--
-**Vamsii-Builds/Vamsii-Builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (AI and ML) at Nutanix, building backend systems, distributed services, and LLM infrastructure.
 
-Here are some ideas to get you started:
+**What I work on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• LLM inference and serving (vLLM, PyTorch, LoRA fine-tuning)
+
+• Multi-agent RAG systems (LangGraph, CrewAI)
+
+• Backend and distributed systems (Go, Python, Java, FastAPI, gRPC, Kafka)
+
+• Cloud infrastructure (AWS EKS, Terraform, Kubernetes)
+
+**Background**
+
+• Currently: Software Engineer, Nutanix, San Jose, CA
+
+• Previously: American Express (Distributed Payments and Fraud Systems), Sonata Software
+
+• M.S. Computer and Information Systems, New England College
+
+**Tech I use**
+
+Python, Java, Go, C++, JavaScript, TypeScript, FastAPI, Spring Boot, Kafka, Redis, PostgreSQL, AWS, Kubernetes, Docker, Terraform, PyTorch, vLLM
+
+**Let's connect**
+
+• LinkedIn: linkedin.com/in/vamsiiikrishh
+
+• Email: vamsiikkrishnnaa@gmail.com
